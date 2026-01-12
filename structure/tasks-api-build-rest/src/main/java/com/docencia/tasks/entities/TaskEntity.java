@@ -1,4 +1,4 @@
-package com.docencia.tasks.entitys;
+package com.docencia.tasks.entities;
 
 import jakarta.persistence.*;
 
